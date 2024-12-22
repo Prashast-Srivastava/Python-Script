@@ -1,4 +1,4 @@
-# !Python Scripts Repository
+# Python Scripts Repository
 
 This repository contains various Python script examples showcasing basic programming concepts and functionalities. These scripts are designed for beginners to intermediate learners who want to understand and practice Python programming.
 
